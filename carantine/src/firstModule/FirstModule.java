@@ -8,7 +8,7 @@ import data.Str;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 /**
- * Created by Руслан on 28.10.2016.
+ * Created by AleXWerton
  */
 public class FirstModule implements Runnable {
     SecondModule secondModule = SecondModule.getInstance();
