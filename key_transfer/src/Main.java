@@ -5,7 +5,7 @@ import diffieHellman.Member;
 import java.math.BigInteger;
 
 /**
- * Created by Руслан on 17.11.2016.
+ * Created by AleXWerton
  */
 public class Main {
     static Member member1 = new Member(7, 26, 11);
