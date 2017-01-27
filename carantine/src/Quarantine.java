@@ -5,7 +5,7 @@ import thirdModule.ThirdModule;
 import java.io.FileNotFoundException;
 
 /**
- * Created by Руслан on 28.10.2016.
+ * Created by AleXWerton.
  */
 public class Quarantine {
     public static void main(String[] args) throws FileNotFoundException {
