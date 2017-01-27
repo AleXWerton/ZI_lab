@@ -5,7 +5,7 @@ import data.Data;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 /**
- * Created by Руслан on 28.10.2016.
+ * Created by AleXWerton.
  */
 public class ThirdModule implements Runnable{
     private boolean stop = false;
