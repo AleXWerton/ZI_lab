@@ -4,7 +4,7 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Date;
 
 /**
- * Created by Руслан on 07.10.2016.
+ * Created by AleXWerton
  */
 public class Main {
     public static void main(String[] args) throws Exception {
