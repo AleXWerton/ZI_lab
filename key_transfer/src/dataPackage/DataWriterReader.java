@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 
 /**
- * Created by Руслан on 17.11.2016.
+ * Created by AleXWerton
  */
 public class DataWriterReader {
     private static String path = ".\\src\\dataPackage\\Data";
