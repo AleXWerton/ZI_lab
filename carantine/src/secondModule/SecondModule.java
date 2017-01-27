@@ -6,7 +6,7 @@ import thirdModule.ThirdModule;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 /**
- * Created by Руслан on 28.10.2016.
+ * Created by AleXWerton
  */
 public class SecondModule implements Runnable {
     boolean stop = false;
