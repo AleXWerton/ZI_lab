@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 /**
- * Created by Руслан on 17.11.2016.
+ * Created by AleXWerton.
  */
 public class RSAMemberReceiver {
     private int p;
