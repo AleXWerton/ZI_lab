@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.util.*;
 
 /**
- * Created by Руслан on 07.10.2016.
+ * Created by AleXWerton
  */
 public class Main {
     public static  Map<Character, Double> freqEn = new HashMap<>();
