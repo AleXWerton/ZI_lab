@@ -6,7 +6,7 @@ import java.math.BigInteger;
 
 
 /**
- * Created by Руслан on 17.11.2016.
+ * Created by AleXWerton
  */
 public class Member {
     private int aPkey;
