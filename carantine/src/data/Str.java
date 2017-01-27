@@ -1,7 +1,7 @@
 package data;
 
 /**
- * Created by Руслан on 28.10.2016.
+ * Created by AleXWerton.
  */
 public class Str extends Data{
     private String value;
