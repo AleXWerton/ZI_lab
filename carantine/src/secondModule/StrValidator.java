@@ -4,7 +4,7 @@ import data.Data;
 import data.Str;
 
 /**
- * Created by Руслан on 28.10.2016.
+ * Created by AleXWerton
  */
 public class StrValidator extends AbstractValidator {
     @Override
