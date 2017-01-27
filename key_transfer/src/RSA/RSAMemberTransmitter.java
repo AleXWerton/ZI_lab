@@ -5,7 +5,7 @@ import dataPackage.DataWriterReader;
 import java.math.BigInteger;
 
 /**
- * Created by Руслан on 18.11.2016.
+ * Created by AleXWerton
  */
 public class RSAMemberTransmitter {
     private int e, n;
