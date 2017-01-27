@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 
 /**
- * Created by Руслан on 28.10.2016.
+ * Created by AleXWerton.
  */
 public class DataInputThread extends Thread{
     BufferedReader bufferedReader;
